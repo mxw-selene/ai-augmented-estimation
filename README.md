@@ -126,13 +126,10 @@ You can run the experiments and reproduce the results for each section as follow
 
 ## Citation
 
-If you use this code or data in your research, please cite:
-@article{wang2024large,
-  title={Large language models for market research: A data-augmentation approach},
-  author={Wang, Mengxin and Zhang, Dennis J and Zhang, Heng},
-  journal={arXiv preprint arXiv:2412.19363},
-  year={2024}
-}
+If you use this code or data in your research, please cite our paper:
+'''
+Wang, Mengxin, Dennis J. Zhang, and Heng Zhang. "Large language models for market research: A data-augmentation approach." arXiv preprint arXiv:2412.19363 (2024).
+'''
 
 ## License
 | Component        | License                                                                                                                             |
