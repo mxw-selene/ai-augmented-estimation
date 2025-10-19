@@ -1,5 +1,8 @@
-# Large language models for market research: A data-augmentation approach
-Mengxin Wang, Dennis J. Zhang, Heng Zhang
+# AI-Augmented Estimation
+
+This repository contains code and experiments for results appeared in 
+    [Wang, Mengxin, Dennis J. Zhang, and Heng Zhang. "Large language models for market research: A data-augmentation approach." arXiv preprint arXiv:2412.19363 (2024).](https://arxiv.org/pdf/2412.19363)
+
 
 ## Requirements
 The project uses Python 3.11.7 and requires the packages in `requirements.txt`
@@ -142,6 +145,6 @@ If you use this code or data in your research, please cite:
 
 ## Contact
 
-Mengxin Wang
+[Mengxin Wang](https://mxwang.site)
 
 Email: mengxin dot wang at utdallas dot edu
