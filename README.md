@@ -11,7 +11,7 @@ The project uses Python 3.11.7 and requires the packages in `requirements.txt`
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/mxw-selene/ai-augmented-estimation.git
 cd ai-augmented-estimation
 ```
 
@@ -136,12 +136,9 @@ If you use this code or data in your research, please cite:
 }
 ```
 
-## License
-
-[Add license information]
 
 ## Contact
 
-[Mengxin Wang](mxwang.site)
+[Mengxin Wang](https://mxwang.site)
 
 Email: mengxin dot wang at utdallas dot edu
