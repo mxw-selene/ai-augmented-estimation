@@ -136,6 +136,12 @@ If you use this code or data in your research, please cite:
 }
 ```
 
+# License
+| Component        | License                                                                                                                             |
+|------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| Codebase         | [MIT License](LICENSE)                                                                                                                      |
+| Datasets         | [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/legalcode)                 |
+
 
 ## Contact
 
