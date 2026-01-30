@@ -1,7 +1,7 @@
 # AI-Augmented Estimation
 
-This repository contains code and experiments for results appeared in 
-    [Wang, Mengxin, Dennis J. Zhang, and Heng Zhang. "Large language models for market research: A data-augmentation approach." arXiv preprint arXiv:2412.19363 (2024).](https://arxiv.org/pdf/2412.19363)
+This repository contains code and experiments for results appeared in
+[Wang, Mengxin, Dennis J. Zhang, and Heng Zhang. "Large language models for market research: A data-augmentation approach." arXiv preprint arXiv:2412.19363 (2024).](https://arxiv.org/pdf/2412.19363)
 
 
 ## Requirements
